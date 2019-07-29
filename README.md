@@ -1,2 +1,3 @@
 # hello-word
-Git guide
+
+My name is Kamal !
